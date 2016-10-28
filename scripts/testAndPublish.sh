@@ -5,4 +5,4 @@ dotnet restore
 
 dotnet test ./appweb.unittests
 
-dotnet publish ./appweb -o ./root/publish
+dotnet publish appweb -o /root/publish
